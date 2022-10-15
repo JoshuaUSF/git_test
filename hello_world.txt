@@ -1,0 +1,3 @@
+I am excitedly working through the Odin Project.
+It is an amazing resource for learning bash, git, and
+hopefully web development fundamentals.
